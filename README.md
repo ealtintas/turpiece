@@ -1,2 +1,3 @@
 # turpiece
-An optimzed tokenizer for Turkish inspired from wordpiece
+
+An optimized tokenizer for Turkish inspired from wordpiece
